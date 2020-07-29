@@ -4,7 +4,7 @@
 
 Write TS in the day  
 Write Rust at night  
-Working at Wechat  
+Working on Wechat  
 Worked at ali  
 Core developer in ykfe group  
 
