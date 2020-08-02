@@ -4,8 +4,8 @@
 
 Write TS in the day  
 Write Rust at night  
-Working on Wechat  
-Worked on ali  
+Working on WeChat  
+Worked on Alibaba  
 Core developer in ykfe group  
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
