@@ -2,8 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangyuang&show_icons=true&theme=cobalt&hide_title=true" />
 
-Write TS in the day  
-Write Rust at night  
+Writing TS and Rust, focus on Serverless Side Render 
 Working on WeChat  
 Worked on Alibaba  
 Core developer in ykfe group  
