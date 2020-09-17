@@ -6,8 +6,8 @@ Writing TS and Rust
 Working on WeChat  
 Worked on Alibaba  
 Core developer in ykfe group  
-focus on Serverless Side Render  
+Focus on Serverless Side Render  
 
-one of the lecturers in 2020 Beijing Node.js Party
+One of the lecturers in 2020 Beijing Node.js Party
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
