@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangyuang&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangyuang&show_icons=true&theme=default_repocard" />
 
 Writing TS and Rust   
 Working at WeChat  
