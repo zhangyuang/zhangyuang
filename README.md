@@ -7,9 +7,9 @@ Working at WeChat
 Worked at Alibaba  
 Focus on open source
 
-One of the lecturers in 2020,2021 Beijing Node.js Party
+One of the lecturers in 2020,2021 Beijing Node.js Party, 2021, 2022 Shenzhen GIAC meeting
 
-If my project can help you, i hope can get some sponsor for focus on open source.
+If my project can help you, you can provide some sponsor for me focus on open source programs.
 If you want to get consult one by one, you can also sponsor to me. Have payed, you can send private message in zhihu or send email to me with payment capture
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
