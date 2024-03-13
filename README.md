@@ -25,6 +25,8 @@ I'm working at WeChat
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
 
+There are two ways to sponsor me both Alipay and WeChat
+
 <div style="display:flex">
   <img src="https://res.wx.qq.com/op_res/iFZOgoe_-KP8Y-EfgfZkEEQ4fU2WcAhMbubL3CFq9VbCktQyiUO5tnJouMfJhvBX4JQ2Wio1Pw04PR68MBjbwQ" width=200>
   <img src="https://res.wx.qq.com/op_res/9jSx7WJn6FBlfQ0ColL4hnvX91D9MlB_XPCgLFM527qknHp0utXZkLah6MYcumdVejK4884dvgkY0NIbBLPrYg" width=200>
