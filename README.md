@@ -2,11 +2,25 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangyuang&show_icons=true&theme=default_repocard" />
 
-I am experienced in TypeScript and Rust, and currently employed at WeChat. Prior to this, I worked at Alibaba, with a strong focus on open-source projects.
+I'm a front end engineer, and foucs on open source programmer.
 
-I have had the privilege of being a lecturer at the Beijing Node.js Party in 2020 and 2021, as well as the Shenzhen GIAC meeting in 2021 and 2022.
+I use TypeScript and Rust in daily development.
 
-If my projects have been of assistance to you, consider sponsoring me to help me continue focusing on open-source programs. If you require one-on-one consultation, you can also sponsor me for that. Once you've made a payment, you can send me a private message on Zhihu or email me with a screenshot of the payment.
+### My work experience
+
+I used to work at Alibaba from 2018 to 2020
+
+I'm working at WeChat
+
+### My representative open source project
+
+[ssr](https://github.com/zhangyuang/ssr) A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
+
+[v8-profiler-rs](https://github.com/zhangyuang/v8-profiler-rs) Use Rust analyze V8 HeapSnapShot by visual interface ui
+
+[node-ffi-rs ](https://github.com/zhangyuang/node-ffi-rs) Implement ffi in Node.js by Rust and NAPI
+
+[sharedMemory](https://github.com/zhangyuang/sharedMemory) SharedMemory between different process in Node.js by Rust
 
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
