@@ -16,6 +16,8 @@ I'm working at WeChat
 
 [ssr](https://github.com/zhangyuang/ssr) A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 
+[fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) A document about how to create a perfect development environment.
+
 [v8-profiler-rs](https://github.com/zhangyuang/v8-profiler-rs) Use Rust analyze V8 HeapSnapShot by visual interface ui
 
 [node-ffi-rs ](https://github.com/zhangyuang/node-ffi-rs) Implement ffi in Node.js by Rust and NAPI
