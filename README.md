@@ -22,7 +22,7 @@ I'm working at WeChat
 
 [node-ffi-rs ](https://github.com/zhangyuang/node-ffi-rs) Implement ffi in Node.js by Rust and NAPI
 
-[sharedMemory](https://github.com/zhangyuang/sharedMemory) Share memory between different Node.js processes by Rust
+[memoryshare](https://github.com/zhangyuang/memoryshare) Share memory between different Node.js processes by Rust
 
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
