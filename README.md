@@ -33,7 +33,8 @@ I'm working at WeChat
 [webpack](https://github.com/webpack/webpack-dev-server/issues?q=zhangyuang)
 
 
-- Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
+### How to sponsor me
+
 
 There are two ways to sponsor me both Alipay and WeChat
 
