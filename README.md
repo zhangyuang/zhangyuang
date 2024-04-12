@@ -12,7 +12,7 @@ I used to work at Alibaba from 2018 to 2020
 
 I'm working at WeChat
 
-### My representative open source project
+### My personal representative open source project
 
 [ssr](https://github.com/zhangyuang/ssr) A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 
@@ -23,6 +23,12 @@ I'm working at WeChat
 [node-ffi-rs ](https://github.com/zhangyuang/node-ffi-rs) Implement ffi in Node.js by Rust and NAPI
 
 [memoryshare](https://github.com/zhangyuang/memoryshare) Share memory between different Node.js processes by Rust
+
+### Famous open source project i have contributed to
+
+
+[vite](https://github.com/vitejs/vite/issues?q=zhangyuang)
+[webpack](https://github.com/webpack/webpack-dev-server/issues?q=zhangyuang)
 
 
 - Follow me on [Zhihu](https://www.zhihu.com/people/zhang-yu-ang-67)
