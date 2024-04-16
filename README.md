@@ -24,7 +24,7 @@ I'm working at WeChat
 
 [memoryshare](https://github.com/zhangyuang/memoryshare) Share memory between different Node.js processes by Rust
 
-### Famous open source project i have contributed to
+### Famous open source project i had contributed to
 
 
 [vite](https://github.com/vitejs/vite/issues?q=zhangyuang)
