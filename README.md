@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangyuang&show_icons=true&theme=default_repocard" />
 
-I'm a front end engineer, and foucs on open source programmer.
+I'm a front-end engineer, focuesd on open source programming.
 
 I use TypeScript and Rust in daily development.
 
@@ -24,7 +24,7 @@ I'm working at WeChat
 
 [memoryshare](https://github.com/zhangyuang/memoryshare) Share memory between different Node.js processes by Rust
 
-### Famous open source project i had contributed to
+### Famous open source project I had contributed to
 
 
 [vite](https://github.com/vitejs/vite/issues?q=zhangyuang)
@@ -35,13 +35,9 @@ I'm working at WeChat
 
 ### How to sponsor me
 
-
-There are two ways to sponsor me both Alipay and WeChat
-
-Eth address: 0x87a2575a5d4dbD5f965e3e3a3d20641BC9a5d192
-
+There are two ways to sponsor me: both Alipay and WeChat
 
 <div style="display:flex">
-  <img src="https://res.wx.qq.com/shop/public/2025-02-12/d50454c8-65f0-4a81-956b-b8837c187364.jpg" width=200>
-  <img src="https://res.wx.qq.com/op_res/9jSx7WJn6FBlfQ0ColL4hnvX91D9MlB_XPCgLFM527qknHp0utXZkLah6MYcumdVejK4884dvgkY0NIbBLPrYg" width=200>
+ <img src="https://doc.ssr-fc.com/images/wepay.jpg" width=200>
+  <img src="https://doc.ssr-fc.com/images/alipay.jpg" width=200>
 </div>
